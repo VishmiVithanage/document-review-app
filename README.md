@@ -1,4 +1,4 @@
-# Invoice Review
+# Document Review
 
 A hybrid invoice and receipt documents review application built with **Azure AI Document Intelligence, Azure OpenAI, FastAPI**.
 
